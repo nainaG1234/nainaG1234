@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Naina Gupta 👋
 
-<!--
-**nainaG1234/nainaG1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student (Core Branch) | 💻 Tech Enthusiast  
+🚀 Passionate about building real-world projects and problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Pursuing B.Tech in a core engineering branch  
+- 💡 Strong interest in applying technology to solve real-life problems  
+- 🧠 Skilled in developing logic-based and data-driven projects  
+- 📈 Continuously improving my technical and development skills  
+
+---
+
+## 🛠️ Skills
+- Python 🐍  
+- Machine Learning 🤖  
+- HTML, CSS, JavaScript 🌐  
+- Flask  
+
+---
+
+## 📌 Projects
+
+### 🎰 AI Casino Manager ✅
+- Predicts player behavior using Random Forest  
+- Helps in decision-making for bonus distribution  
+
+### 🚑 Emergency Health Support System 🔄
+- A system designed to provide quick assistance in emergency situations  
+
+### 💳 Credit Card Fraud Detection ✅
+- Detects fraudulent transactions using Machine Learning techniques  
+
+### 📊 Random Project Manager ✅
+- Manages and organizes project-related tasks efficiently  
+
+### 🎮 Number Guessing Game ✅
+- A simple interactive game based on logical conditions  
+
+---
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/naina-gupta-388a88288
+- Email: ng1418@srmist.edu.in
+
+---
+
+⭐ Thanks for visiting my profile!
