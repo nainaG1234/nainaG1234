@@ -33,8 +33,8 @@
 ### 💳 Credit Card Fraud Detection ✅
 - Detects fraudulent transactions using Machine Learning techniques  
 
-### 📊 Random Project Manager ✅
-- Manages and organizes project-related tasks efficiently  
+### 📊 Random Password Generator ✅
+- Generates random passwords 
 
 ### 🎮 Number Guessing Game ✅
 - A simple interactive game based on logical conditions  
